@@ -217,7 +217,7 @@ if prompt:
             <span style="background: #000000; color: white; padding: 6px 10px; border-radius: 50%; font-size: 14px;">👤</span>
             <strong style="color: #000000; font-weight: 600;">أنت</strong>
         </div>
-        <div style="color: #333333; padding-left: 40px; line-height: 1.6;">{prompt}</div>
+        <div style="color: #333333; padding-left: 40px; line-height: 1.6; direction:rtl;">{prompt}</div>
     </div>
     """,
                 unsafe_allow_html=True)
