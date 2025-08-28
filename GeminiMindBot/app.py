@@ -170,7 +170,9 @@ for message in st.session_state.messages:
                 <span style="background: #000000; color: white; padding: 6px 10px; border-radius: 50%; font-size: 14px;">👤</span>
                 <strong style="color: #000000; font-weight: 600;">أنت</strong>
             </div>
-            <div style="color: #333333; padding-left: 40px; line-height: 1.6;">{message["content"]}</div>
+<div style="color: #333333; padding-left: 40px; line-height: 1.6; text-align: right; direction: rtl;">
+  {message["content"]}
+</div>
         </div>
         """,
                     unsafe_allow_html=True)
