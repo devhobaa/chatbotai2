@@ -242,7 +242,7 @@ if prompt:
   {response}
 </div>
 
-            </div>
+          
             """,
                         unsafe_allow_html=True)
 
