@@ -99,6 +99,11 @@ st.markdown("""
 
 # Welcome section
 st.markdown("""
+<style>
+*{
+direction:rtl;
+}
+</style>
 <div style="text-align: center; padding: 2rem 0; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
     <h1 style="color: #000000; font-weight: 600; margin: 0 0 1rem 0; font-size: 2.5rem;">أهلاً بك في متجر 3QRab</h1>
     <p style="color: #666666; font-size: 1.1rem; margin: 1rem 0; font-weight: 400;">
