@@ -240,7 +240,7 @@ if prompt:
             st.markdown(f"""
             <div style="background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); padding: 1.2rem; border-radius: 15px; margin: 1rem 0; border: 1px solid #e0e0e0; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
                 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
-                    <span style="background: linear-gradient(45deg, #000000, #333333); color: white; padding: 6px 10px; border-radius: 50%; font-size: 14px;"><img width="50px" height="50px" style="border-radius: 50%;"src="https://img.freepik.com/free-vector/graident-ai-robot-vectorart_78370-4114.jpg?t=st=1756413685~exp=1756417285~hmac=afaa35dc6c3deea2251c284ed0897072d313414ce96e7d371fb8f1186030ff0c&w=1480"/></span>
+                    <span style="background: linear-gradient(45deg, #000000, #333333); color: white; padding: 6px 10px; border-radius: 50%; font-size: 14px;"><img width="30px" height="30px" style="border-radius: 50%;"src="https://img.freepik.com/free-vector/graident-ai-robot-vectorart_78370-4114.jpg?t=st=1756413685~exp=1756417285~hmac=afaa35dc6c3deea2251c284ed0897072d313414ce96e7d371fb8f1186030ff0c&w=1480"/></span>
                     <strong style="color: #000000; font-weight: 600;">موسي</strong>
                     <span style="background: #f0f0f0; color: #666; padding: 2px 8px; border-radius: 10px; font-size: 12px;">مساعد ذكي</span>
                 </div>
