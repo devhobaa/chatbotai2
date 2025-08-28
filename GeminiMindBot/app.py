@@ -238,7 +238,10 @@ if prompt:
                     <strong style="color: #000000; font-weight: 600;">موسي</strong>
                     <span style="background: #f0f0f0; color: #666; padding: 2px 8px; border-radius: 10px; font-size: 12px;">مساعد ذكي</span>
                 </div>
-                <div style="color: #333333; padding-left: 40px; line-height: 1.6;">{response}</div>
+              <div style="color: #333333; padding-right: 40px; line-height: 1.6; text-align: right; direction: rtl;">
+  {response}
+</div>
+
             </div>
             """,
                         unsafe_allow_html=True)
